@@ -130,4 +130,6 @@ plt.ylabel('Vce')
 plt.show()
 ```
 ### xy
+英文论文查找网站
+https://www.semanticscholar.org/
 ### zjy
